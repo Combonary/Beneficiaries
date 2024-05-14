@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beneficiaries</string>
+    <string name="first_name">First Name: </string>
+    <string name="last_name">Last Name: </string>
+    <string name="beneficiary_type">Beneficiary Type: </string>
+    <string name="designation">Designation: </string>
+    <string name="ssn">SSN: </string>
+    <string name="date_of_birth">Date Of Birth: </string>
+    <string name="phone_number">Phone Number: </string>
+    <string name="address">Address: </string>
+</resources>
